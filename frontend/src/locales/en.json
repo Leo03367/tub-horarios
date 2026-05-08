@@ -1,0 +1,18 @@
+{
+  "home": "Home",
+  "favorites": "Favorites",
+  "search": "Search",
+  "settings": "Settings",
+  "trip_planner": "Trip Planner",
+  "line": "Line",
+  "stop": "Stop",
+  "schedule": "Schedule",
+  "next_departures": "Next Departures",
+  "weekday": "Weekday",
+  "saturday": "Saturday",
+  "sunday": "Sunday",
+  "theme": "Theme",
+  "language": "Language",
+  "notifications": "Notifications",
+  "about": "About"
+}
